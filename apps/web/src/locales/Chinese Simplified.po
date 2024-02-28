@@ -1,0 +1,1580 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-02-28 12:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: uniswap\n"
+"X-Crowdin-Project-ID: 652136\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /[1999321.Uniswap-web] main/apps/web/src/locales/en-US.po\n"
+"X-Crowdin-File-ID: 14\n"
+"Project-Id-Version: uniswap\n"
+"Language-Team: Chinese Simplified\n"
+"PO-Revision-Date: 2024-02-28 13:51\n"
+
+#: src/constants/tokenSafety.tsx
+msgid "{0, plural, =1 {This token isn't traded on leading U.S. centralized exchanges.} other {These tokens aren't traded on leading U.S. centralized exchanges.}}"
+msgstr "{0, plural, =1 {这个令牌没有在美国主要的中央交易所交易。} other {这些令牌没有在美国主要的中央交易所交易。}}"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Unknown Swap"
+msgstr "未知交换器"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/CancelLimitsDialog.tsx
+msgid "Nevermind"
+msgstr "永远不想要的"
+
+#: src/components/AccountDrawer/MiniPortfolio/Limits/OpenLimitOrdersButton.tsx
+msgid "{0, plural, =1 {{1}} other {{2}}}"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Add V2 liquidity failed"
+msgstr "添加 V2 流动资金失败"
+
+#: src/pages/Landing/index.tsx
+msgid "Buy, sell, and explore tokens and NFTs"
+msgstr "购买、出售和探索令牌和 NFTs"
+
+#: src/components/AccountDrawer/MiniPortfolio/Limits/LimitDetailActivityRow.tsx
+msgid "when {0} {1}/{2}"
+msgstr "当 {0} {1}/{2}"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Receive cancelled"
+msgstr "接收已取消"
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "Your onchain transactions and crypto purchases will appear here."
+msgstr "您的 onchain 交易和加密购买将出现在这里。"
+
+#: src/components/Banner/MobileAppAnnouncementBanner/index.tsx
+#: src/pages/Landing/components/DownloadApp/GetTheAppButton.tsx
+msgid "Get the app"
+msgstr "获取应用程序"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Withdrew"
+msgstr "取款"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Collect fees failed"
+msgstr "收集费用失败"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Removed Liquidity"
+msgstr "已移除的流动资金"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Deploying"
+msgstr "部署"
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "No tokens yet"
+msgstr "尚无令牌"
+
+#: src/pages/Landing/sections/Stats.tsx
+msgid "24H volume"
+msgstr "24小时音量"
+
+#: src/pages/Landing/components/cards/LiquidityCard.tsx
+msgid "Provide Liquidity"
+msgstr "提供流动资金"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "ETH Registrar Controller"
+msgstr "ETH Registrar Controller"
+
+#: src/components/NavBar/UkDisclaimerModal.tsx
+msgid "Dismiss"
+msgstr "关闭"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainActivityModal.tsx
+msgid "Order pending"
+msgstr "待定订单"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Queuing"
+msgstr "队列中"
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "Explore tokens"
+msgstr "探索令牌"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Added V2 liquidity"
+msgstr "添加V2流动资金"
+
+#: src/constants/tokenSafety.tsx
+msgid "{0, plural, =1 {This token isn't traded on leading U.S. centralized exchanges or frequently swapped on Uniswap.} other {These tokens aren't traded on leading U.S. centralized exchanges or frequently swapped on Uniswap.}}"
+msgstr "{0, plural, =1 {这个令牌不是在美国领先的中央交易所交易或在Uniswap上经常交换的。} other {这些代币没有在美国主要的中央交易所交易，也没有在Uniswap上经常交换。}}"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Ethereum Name Service"
+msgstr "以太空名称服务"
+
+#: src/pages/Landing/sections/Stats.tsx
+msgid "All time swappers"
+msgstr "所有时间交换器"
+
+#: src/components/Polling/ChainConnectivityWarning.tsx
+msgid "{label} might be down right now, or you may have lost your network connection."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Burning"
+msgstr "燃烧中"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Borrowing"
+msgstr "借贷中"
+
+#: src/components/Polling/ChainConnectivityWarning.tsx
+msgid "Network warning"
+msgstr "网络警告"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Your limit could not be fulfilled at this time. Please try again."
+msgstr "您的限制此时无法完成。请重试。"
+
+#: src/components/AccountDrawer/UniwalletModal.tsx
+msgid "Scan with Uniswap Wallet"
+msgstr "用Uniswap 钱包扫描"
+
+#: src/components/WalletModal/ConnectionErrorView.tsx
+msgid "The connection attempt failed. Please click try again and follow the steps to connect in your wallet."
+msgstr "连接尝试失败。请点击再试一次，并按照步骤在您的钱包中连接。"
+
+#: src/components/NavBar/SearchBarDropdown.tsx
+msgid "Recent searches"
+msgstr "最近搜索"
+
+#: src/components/NavBar/SearchBarDropdown.tsx
+msgid "Popular NFT collections"
+msgstr "热门NFT收藏"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Deposited"
+msgstr "已保存"
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "{0} Try increasing your slippage tolerance.\n"
+"Note: fee-on-transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Delegate failed"
+msgstr "Delegate 失败"
+
+#: src/components/WalletModal/index.tsx
+msgid "Fiat onramp powered by MoonPay USA LLC"
+msgstr "美国月费有限责任公司提供的火灾启动机"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "DNS Registrar"
+msgstr "DNS 书记员"
+
+#: src/pages/Landing/sections/Stats.tsx
+msgid "All time volume"
+msgstr "全部时间音量"
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Protocol"
+msgstr "Protocol"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches the optimal trade route from a Uniswap Labs server."
+msgstr "应用程序从 Uniswap网站服务器获取最佳交易路径。"
+
+#: src/constants/tokenSafety.tsx
+msgid "Token not found"
+msgstr "找不到令牌"
+
+#: src/nft/components/collection/TransactionCompleteModal.tsx
+msgid "Complete!"
+msgstr "Complete!"
+
+#: src/components/AccountDrawer/MiniPortfolio/index.tsx
+#: src/components/NavBar/index.tsx
+#: src/components/NavBar/SearchBarDropdown.tsx
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Tokens"
+msgstr "令牌"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Repay failed"
+msgstr "还款失败"
+
+#: src/pages/Landing/components/cards/LiquidityCard.tsx
+msgid "Liquidity"
+msgstr "流动资金"
+
+#: src/components/WalletModal/PrivacyPolicyNotice.tsx
+msgid "and consent to its"
+msgstr "并同意其发言和建议"
+
+#: src/components/NavBar/ChainSelectorRow.tsx
+msgid "Approve in wallet"
+msgstr "在钱包中批准"
+
+#: src/pages/Landing/index.tsx
+msgid "Trade crypto with confidence"
+msgstr "带着信心交易加密文件"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Your account had insufficent funds to complete this swap."
+msgstr "您的帐户有承保资金来完成这种交换。"
+
+#: src/pages/Landing/sections/Stats.tsx
+#: src/pages/Landing/sections/Stats.tsx
+msgid "Trusted by millions"
+msgstr "受数以百万计的信任的"
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Company"
+msgstr "公司"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Approved"
+msgstr "已批准"
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Sorry, an error occured while processing your request. If you request support, be sure to copy the details of this error."
+msgstr "抱歉，处理您的请求时发生错误。如果您请求支持，请务必复制此错误的详细信息。"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Bought"
+msgstr "已购买"
+
+#: src/components/AccountDrawer/MiniPortfolio/index.tsx
+#: src/components/NavBar/index.tsx
+#: src/pages/Landing/sections/Footer.tsx
+msgid "NFTs"
+msgstr "NFTs"
+
+#: src/components/Web3Status/index.tsx
+msgid "{pendingActivityCount} Pending"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Add liquidity cancelled"
+msgstr "添加流动资金已取消"
+
+#: src/components/NavBar/index.tsx
+msgid "Explore"
+msgstr "浏览"
+
+#: src/components/AccountDrawer/MiniPortfolio/ExpandoRow.tsx
+msgid "Show"
+msgstr "显示"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Queued"
+msgstr "队列中"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Limit opened"
+msgstr "限制打开"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Claim failed"
+msgstr "认领失败"
+
+#: src/components/NavBar/SearchBarDropdown.tsx
+msgid "Popular tokens"
+msgstr "热门令牌"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainActivityModal.tsx
+msgid "Order executed"
+msgstr "订单已执行"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Sending"
+msgstr "正在发送"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainOrderLineItem.tsx
+msgid "Transaction ID"
+msgstr "交易编号"
+
+#: src/components/NavBar/SearchBar.tsx
+msgid "Search"
+msgstr "搜索"
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "+ New position"
+msgstr "+ 新位置"
+
+#: src/components/Banner/MobileAppAnnouncementBanner/index.tsx
+msgid "Download the Uniswap mobile app for iOS and Android"
+msgstr "下载iOS和安卓系统的 Uniswap移动应用程序"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Repaid"
+msgstr "已还款"
+
+#: src/components/Button/GetHelp.tsx
+msgid "Get help"
+msgstr "获得帮助"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Migrating liquidity"
+msgstr "迁移流动资金"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Burn cancelled"
+msgstr "刻录已取消"
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "Explore NFTs"
+msgstr "探索NFTs"
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Contact us"
+msgstr "联系我们"
+
+#: src/pages/Landing/sections/Footer.tsx
+#: src/pages/Landing/sections/NewsletterEtc.tsx
+msgid "Help Center"
+msgstr "帮助中心"
+
+#: src/components/WalletModal/PrivacyPolicyNotice.tsx
+msgid "Last updated"
+msgstr "上次更新"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Deposit cancelled"
+msgstr "存款已取消"
+
+#: src/components/WalletModal/Option.tsx
+msgid "Recent"
+msgstr "最近的"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app logs anonymized usage statistics in order to improve over time."
+msgstr "应用程序日志匿名使用统计，以便随着时间的推移而改进。"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Swap failed"
+msgstr "交换失败"
+
+#: src/components/AccountDrawer/MiniPortfolio/ExpandoRow.tsx
+msgid "Hidden"
+msgstr "Hidden"
+
+#: src/components/AccountDrawer/MiniPortfolio/Pools/index.tsx
+#: src/components/Badge/RangeBadge.tsx
+msgid "Closed"
+msgstr "已关闭"
+
+#: src/pages/Landing/sections/Stats.tsx
+msgid "Uniswap products are powered by the Uniswap Protocol. The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 7+ additional chains."
+msgstr "Uniswap产品是由 Uniswap协议驱动的。 协议是最大的连锁市场，在以太坊上每周交易成千上万个令牌和7个更多的链锁店，交易量达数十亿美元。"
+
+#: src/nft/components/card/icons.tsx
+msgid "Blocked on OpenSea"
+msgstr "在 OpenSea 上被阻止"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+msgid "Unknown"
+msgstr "未知的"
+
+#: src/components/AccountDrawer/MiniPortfolio/Limits/LimitsMenu.tsx
+msgid "Open limits"
+msgstr "开放限制"
+
+#: src/components/ErrorBoundary/index.tsx
+#: src/pages/Landing/sections/NewsletterEtc.tsx
+msgid "Get support"
+msgstr "获得支持"
+
+#: src/pages/RouteDefinitions.tsx
+msgid "Buy, sell & trade Ethereum and other top tokens on Uniswap"
+msgstr "Uniswap上的购买、销售和交易以太坊及其他顶级代币"
+
+#: src/theme/components/ThemeToggle.tsx
+msgid "Theme"
+msgstr "主题"
+
+#: src/pages/Landing/sections/NewsletterEtc.tsx
+msgid "Stay connected"
+msgstr "保持连接"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Uniswap Protocol"
+msgstr "Uniswap Protocol"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Limit failed"
+msgstr "限制失败"
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "This transaction will not succeed either due to price movement or fee on transfer. Try increasing your slippage tolerance."
+msgstr "由于价格变动或转账手续费，这笔交易不会成功。请尝试增加您的幻灯片容忍度。"
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "No pools yet"
+msgstr "尚无资源库"
+
+#: src/pages/NotFound/index.tsx
+msgid "Oops, take me back to Swap"
+msgstr "哎呀，把我带回去交换吧"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "from"
+msgstr "来自"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Removed liquidity"
+msgstr "已移除流动资金"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Send cancelled"
+msgstr "发送已取消"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Submitted proposal"
+msgstr "提交的提案"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Execute failed"
+msgstr "执行失败"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainActivityModal.tsx
+msgid "Order cancelled"
+msgstr "订单已取消"
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Need help?"
+msgstr "需要帮助吗？"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Borrow cancelled"
+msgstr "借款已取消"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Add liquidity failed"
+msgstr "添加流动资金失败"
+
+#: src/components/Popups/PopupContent.tsx
+msgid "Failed to switch networks"
+msgstr "切换网络失败"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+msgid "and"
+msgstr "和"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Claim your UNI tokens"
+msgstr "认领您的 UNI 令牌"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Unknown Lend"
+msgstr "未知Lend"
+
+#: src/components/AccountDrawer/MiniPortfolio/Limits/OpenLimitOrdersButton.tsx
+msgid "Cancel limits to proceed"
+msgstr "取消继续的限制"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Deployed"
+msgstr "已部署"
+
+#: src/components/Polling/ChainConnectivityWarning.tsx
+msgid "Check network status"
+msgstr "检查网络状态"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Voted"
+msgstr "已投票"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is outside of your selected range. Your position is not currently earning fees."
+msgstr "此池的价格超出了您选定的范围。您的位置目前没有赚取费用。"
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "{0}"
+msgstr "{0}"
+
+#: src/components/Banner/UniTag/index.tsx
+msgid "Claim now"
+msgstr "立即补丁"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Remove liquidity failed"
+msgstr "移除流动资金失败"
+
+#: src/components/WalletModal/ConnectionErrorView.tsx
+msgid "Error connecting"
+msgstr "连接错误"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Swapping"
+msgstr "Swapping"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Withdraw failed"
+msgstr "提取失败"
+
+#: src/components/WalletModal/ConnectionErrorView.tsx
+msgid "Try again"
+msgstr "再试一次"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Claiming"
+msgstr "索取中"
+
+#: src/pages/Landing/sections/NewsletterEtc.tsx
+msgid "Follow @Uniswap on X for the latest updates"
+msgstr "在 X 上关注@Uniswap 以获取最新更新"
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Terms & Privacy"
+msgstr "条款与隐私"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Executed"
+msgstr "已执行"
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Reload the app"
+msgstr "重新加载应用程序"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+#: src/components/WalletModal/PrivacyPolicyNotice.tsx
+msgid "By connecting a wallet, you agree to Uniswap Labs'"
+msgstr "通过连接一个钱包，您同意Uniswap标签"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Contract Interaction"
+msgstr "合同互动"
+
+#: src/components/Polling/index.tsx
+msgid "The most recent block number on this network. Prices update on every block."
+msgstr "此网络上的最新区块号码。每个区块的价格都会更新。"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Approval cancelled"
+msgstr "审批已取消"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "Your position has 0 liquidity, and is not earning fees."
+msgstr "您的仓位有 0 个流动性，无需赚取费用。"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Wrap cancelled"
+msgstr "自动换行已取消"
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "The input token cannot be transferred. There may be an issue with the input token."
+msgstr "输入令牌无法传输。输入令牌可能有问题。"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Unwrap failed"
+msgstr "卸载失败"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Revoke approval failed"
+msgstr "撤销批准失败"
+
+#: src/constants/tokenSafety.tsx
+#: src/constants/tokenSafety.tsx
+msgid "Always conduct your own research before trading."
+msgstr "交易前总是进行自己的研究。"
+
+#: src/constants/tokenSafety.tsx
+msgid "Not available"
+msgstr "不可用"
+
+#: src/components/AccountDrawer/AnalyticsToggle.tsx
+msgid "We use anonymized data to enhance your experience with Uniswap Labs products."
+msgstr "我们使用匿名数据来增强您在 Uniswap 实验室产品方面的体验。"
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "This transaction could not be sent because the deadline has passed. Please check that your transaction deadline is not too low."
+msgstr "无法发送此交易，因为截止日期已过。请检查您的交易截止日期是否太低。"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Limit cancelled"
+msgstr "限制已取消"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Wrapped"
+msgstr "包裹的"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Approval failed"
+msgstr "审批失败"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Public Resolver"
+msgstr "公共解析器"
+
+#: src/theme/components/index.tsx
+msgid "Copied!"
+msgstr "已复制！"
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Sorry, an error occured while processing your request. If you request support, be sure to provide your error ID."
+msgstr "抱歉，处理您的请求时发生错误。如果您请求支持，请务必提供您的错误ID。"
+
+#: src/components/AccountDrawer/LocalCurrencyMenu.tsx
+#: src/components/AccountDrawer/SettingsMenu.tsx
+msgid "Currency"
+msgstr "货币"
+
+#: src/components/AccountDrawer/SettingsMenu.tsx
+msgid "Preferences"
+msgstr "首选项"
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "Buy or transfer tokens to this wallet to get started."
+msgstr "购买或转账代币到这个钱包开始操作。"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Withdrawing"
+msgstr "取款"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Swapped"
+msgstr "掉落了"
+
+#: src/components/AccountDrawer/MiniPortfolio/Pools/index.tsx
+msgid "Closed Positions"
+msgstr "关闭位置"
+
+#: src/components/NavBar/UkBanner.tsx
+msgid "Read more"
+msgstr "阅读更多"
+
+#: src/pages/Landing/components/cards/LiquidityCard.tsx
+msgid "Provide liquidity to pools on the Uniswap Protocol and earn fees on swaps."
+msgstr "向Uniswap 协议上的联营提供流动资金，并通过互换赚取费用。"
+
+#: src/theme/components/ThemeToggle.tsx
+msgid "Auto"
+msgstr "自动操作"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Cancel failed"
+msgstr "取消失败"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Collecting fees"
+msgstr "收取费用"
+
+#: src/components/AccountDrawer/TestnetsToggle.tsx
+msgid "Show testnets"
+msgstr "Show testnets"
+
+#: src/components/NavBar/SearchBarDropdown.tsx
+msgid "No tokens found."
+msgstr "未找到令牌。"
+
+#: src/components/Logo/HolidayUniIcon.tsx
+msgid "Happy Holidays from the Uniswap team!"
+msgstr "Uniswap团队的愉快节日！"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Buy failed"
+msgstr "购买失败"
+
+#: src/constants/tokenSafety.tsx
+msgid "{0, plural, =1 {You can't trade this token using the Uniswap App.} other {You can't trade these tokens using the Uniswap App.}}"
+msgstr "{0, plural, =1 {您不能使用 Uniswap 应用程序交易此令牌} other {您不能使用 Uniswap 应用程序交易这些令牌}}"
+
+#: src/components/AccountDrawer/MiniPortfolio/Limits/OpenLimitOrdersButton.tsx
+msgid "Approaching 100 limit maximum"
+msgstr "接近100个最大限制"
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "The output token cannot be transferred. There may be an issue with the output token. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr "无法传输输出令牌。输出令牌可能有问题。 注意：传输和重置基础令牌的费用与 Uniswap V3 不兼容。"
+
+#: src/components/NavBar/ChainSelectorRow.tsx
+msgid "Unsupported by your wallet"
+msgstr "你的钱包不支持"
+
+#: src/components/ConnectedAccountBlocked/index.tsx
+msgid "blocked activities"
+msgstr "已屏蔽的活动"
+
+#: src/components/AccountDrawer/SettingsMenu.tsx
+msgid "Settings"
+msgstr "设置"
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Brand Assets"
+msgstr "品牌资源"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/utils.ts
+msgid "Pending"
+msgstr "待定"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Removing liquidity"
+msgstr "移除流动资金"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Repaying"
+msgstr "还款"
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Careers"
+msgstr "履历"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Migrate liquidity cancelled"
+msgstr "迁移流动资金已取消"
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "This transaction will not succeed due to price movement. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr "由于价格变动，这笔交易不会成功。请尝试增加您的幻灯片容忍度。 注意：传输和重置基础令牌的费用与 Uniswap V3 不兼容。"
+
+#: src/constants/tokenSafety.tsx
+msgid "Caution"
+msgstr "注意事项"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Voting"
+msgstr "表 决"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Submit proposal failed"
+msgstr "提交提案失败"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Vote failed"
+msgstr "投票失败"
+
+#: src/pages/Landing/sections/Hero.tsx
+msgid "The largest onchain marketplace. Buy and sell crypto on Ethereum and 7+ other chains."
+msgstr "最大的连锁市场。购买和出售Etherum上的加密和其他链。"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Limit expired"
+msgstr "限制已过期"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Revoking approval"
+msgstr "撤销批准"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Swap expired"
+msgstr "交换已过期"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Deploy failed"
+msgstr "部署失败"
+
+#: src/components/NavBar/UkBanner.tsx
+msgid "This web application is provided as a tool for users to interact with the Uniswap Protocol on\n"
+"their own initiative, with no endorsement or recommendation of cryptocurrency trading activities. In doing so,\n"
+"Uniswap is not recommending that users or potential users engage in cryptoasset trading activity, and users or\n"
+"potential users of the web application should not regard this webpage or its contents as involving any form of\n"
+"recommendation, invitation or inducement to deal in cryptoassets."
+msgstr ""
+
+#: src/components/ConnectedAccountBlocked/index.tsx
+msgid "If you believe this is an error, please send an email including your address to"
+msgstr "如果您认为这是一个错误，请发送一封包含您地址的电子邮件到"
+
+#: src/utils/errors.ts
+msgid "Your wallet is connected to the wrong network."
+msgstr "您的钱包已连接到错误的网络。"
+
+#: src/pages/Landing/index.tsx
+msgid "Trade crypto and NFTs with confidence"
+msgstr "有信心地交易加密和NFTs"
+
+#: src/components/AccountDrawer/MiniPortfolio/index.tsx
+msgid "Activity"
+msgstr "活动"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Added liquidity"
+msgstr "增加流动资金"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Delegated"
+msgstr "已授权"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Migrated liquidity"
+msgstr "迁移流动资金"
+
+#: src/components/FiatOnrampModal/index.tsx
+msgid "Powered by MoonPay USA LLC"
+msgstr "由 MoonPay USA LLC提供支持"
+
+#: src/pages/Landing/index.tsx
+msgid "Get started"
+msgstr "开始使用"
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Trademark Policy"
+msgstr "商标政策"
+
+#: src/components/Banner/MobileAppAnnouncementBanner/index.tsx
+msgid "Download now"
+msgstr "立即下载"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is within your selected range. Your position is currently earning fees."
+msgstr "此池的价格在您选择的范围内。您的位置目前正在赚取费用。"
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "No activity yet"
+msgstr "尚无活动"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainOrderLineItem.tsx
+msgid "Expiry"
+msgstr "Expiry"
+
+#: src/pages/Landing/sections/Footer.tsx
+#: src/pages/Landing/sections/NewsletterEtc.tsx
+msgid "Blog"
+msgstr "博客"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Unknown Approval"
+msgstr "未知批准"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "UNI has arrived"
+msgstr "UNI已抵达。"
+
+#: src/components/AccountDrawer/SpamToggle.tsx
+msgid "Hide unknown tokens & NFTs"
+msgstr "隐藏未知令牌和 NFTs"
+
+#: src/pages/Landing/components/DownloadApp/GetTheAppModal.tsx
+msgid "Scan the QR code with your phone to download the Uniswap app"
+msgstr "通过手机扫描二维码下载Uniswap应用"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainOrderLineItem.tsx
+msgid "Network cost"
+msgstr "网络成本"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "This app uses the following third-party APIs:"
+msgstr "此应用使用以下第三方API："
+
+#: src/components/ConnectedAccountBlocked/index.tsx
+msgid "Blocked address"
+msgstr "阻止地址"
+
+#: src/nft/components/card/media.tsx
+msgid "Content not"
+msgstr "内容不是"
+
+#: src/pages/Landing/components/cards/WebappCard.tsx
+msgid "Swapping made simple. Access thousands of tokens on 8+ chains."
+msgstr "交换就简单了。在 8 + 链上访问数千个令牌。"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Insufficient funds"
+msgstr "资金不足"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Executing"
+msgstr "正在执行"
+
+#. js-lingui-explicit-id
+#: src/components/AccountDrawer/MiniPortfolio/Activity/CancelLimitsDialog.tsx
+#: src/components/AccountDrawer/MiniPortfolio/Limits/LimitsMenu.tsx
+msgid "cancelling"
+msgstr "正在取消"
+
+#. js-lingui-explicit-id
+#: src/components/AccountDrawer/MiniPortfolio/Activity/CancelLimitsDialog.tsx
+msgid "cancelling-confirmation"
+msgstr "取消-确认"
+
+#: src/components/AccountDrawer/GitVersionRow.tsx
+msgid "Version:"
+msgstr "版本："
+
+#: src/pages/Landing/sections/Hero.tsx
+msgid "anywhere."
+msgstr "任何地方。"
+
+#: src/components/Toggle/PillMultiToggle.tsx
+msgid "{value}"
+msgstr ""
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Governance"
+msgstr "治理"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainActivityModal.tsx
+msgid "Cancel"
+msgstr "取消"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "to"
+msgstr "到"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Wrap failed"
+msgstr "换行失败"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Purchased"
+msgstr "已购买"
+
+#: src/components/NavBar/SearchBar.tsx
+msgid "Search tokens and NFT collections"
+msgstr "搜索令牌和 NFT 收藏"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Migrate liquidity failed"
+msgstr "迁移流动资金失败"
+
+#: src/components/AccountDrawer/AuthenticatedHeader.tsx
+msgid "Restricted region"
+msgstr "受限地区"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/utils.ts
+msgid "Today"
+msgstr "今日："
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Queue failed"
+msgstr "队列失败"
+
+#: src/components/Banner/UniTag/index.tsx
+msgid "Claim your Uniswap username"
+msgstr "认领您的 Uniswap 用户名"
+
+#: src/pages/Landing/sections/Stats.tsx
+msgid "All time LP fees"
+msgstr "所有时间LP费用"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Unwrapping"
+msgstr "正在解包"
+
+#: src/components/WalletModal/ConnectionErrorView.tsx
+msgid "Back to wallet selection"
+msgstr "返回钱包选择"
+
+#: src/pages/Landing/sections/Hero.tsx
+msgid "anytime,"
+msgstr "任何时间，"
+
+#: src/components/NavBar/NavIcon.tsx
+msgid "Navigation button"
+msgstr "导航按钮"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Borrowed"
+msgstr "借出"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Permit2"
+msgstr "Permit2"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Received"
+msgstr "已接收"
+
+#: src/pages/Landing/components/cards/DownloadWalletCard.tsx
+msgid "Uniswap wallet"
+msgstr "Uniswap 钱包"
+
+#: src/components/AccountDrawer/AuthenticatedHeader.tsx
+msgid "View NFTs"
+msgstr "查看 NFT"
+
+#: src/components/Banner/Outage/OutageBanner.tsx
+msgid "You can still swap and provide liquidity for this token without issue."
+msgstr "您仍然可以交换并为这个令牌提供流动资金，而无需签发。"
+
+#: src/components/AccountDrawer/UniwalletModal.tsx
+msgid "Don't have a Uniswap wallet?"
+msgstr "没有一个Uniswap钱包？"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainOrderLineItem.tsx
+msgid "Rate"
+msgstr "速率"
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "The Uniswap invariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer."
+msgstr "Uniswap的无编号x*y=k对交换不满意。这通常意味着您正在交换的代币之一在传输时包含自定义行为。"
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "Transaction rejected"
+msgstr "交易被拒绝"
+
+#: src/components/NavBar/SearchBar.tsx
+msgid "Search tokens"
+msgstr "搜索令牌"
+
+#: src/components/AccountDrawer/MiniPortfolio/Limits/OpenLimitOrdersButton.tsx
+msgid "{0} open limits"
+msgstr "{0} 开放限制"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Vote cancelled"
+msgstr "投票已取消"
+
+#: src/connection/index.ts
+#: src/connection/index.ts
+msgid "Browser Wallet"
+msgstr "浏览器钱包"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Delegating"
+msgstr "授权中"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Sent"
+msgstr "已发送"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Claimed"
+msgstr "已索赔的"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainActivityModal.tsx
+msgid "Transaction details"
+msgstr "交易详情"
+
+#: src/components/AccountDrawer/UniwalletModal.tsx
+msgid "Safely store and swap tokens with the Uniswap app. Available on iOS and Android."
+msgstr "通过 Uniswapp 安全存储和交换令牌。可在 iOS 和 Android 上使用。"
+
+#: src/components/FiatOnrampModal/index.tsx
+msgid "MoonPay fiat on-ramp iframe"
+msgstr "月度火花在斜边框"
+
+#: src/components/AccountDrawer/AuthenticatedHeader.tsx
+msgid "Moonpay is not available in some regions. Click to learn more."
+msgstr "某些地区没有月度支付。点击了解更多。"
+
+#: src/components/ConnectedAccountBlocked/index.tsx
+msgid "This address is blocked on the Uniswap Labs interface because it is associated with one or more"
+msgstr "此地址在Uniswap Labs接口上被阻止，因为它与一个或多个相关联。"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Deposit failed"
+msgstr "存款失败"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Burned"
+msgstr "烧焦的"
+
+#: src/components/AccountDrawer/MiniPortfolio/Pools/index.tsx
+#: src/components/Badge/RangeBadge.tsx
+msgid "Out of range"
+msgstr "超出范围"
+
+#: src/pages/Landing/sections/NewsletterEtc.tsx
+msgid "Connect with us"
+msgstr "与我们联系"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "Uniswap Labs' Terms of Service"
+msgstr "Uniswap 标签的服务条款"
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "No NFTs yet"
+msgstr "尚无NFTs"
+
+#: src/components/Web3Status/index.tsx
+msgid "Connect"
+msgstr "连接"
+
+#: src/components/Polling/ChainConnectivityWarning.tsx
+msgid "You may have lost your network connection."
+msgstr "您可能已失去您的网络连接。"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Add V2 liquidity cancelled"
+msgstr "添加 V2 流动资金已取消"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Approving"
+msgstr "审批中"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Submitting proposal"
+msgstr "提交提案"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Adding V2 liquidity"
+msgstr "添加 V2 流动资金"
+
+#: src/components/Polling/ChainConnectivityWarning.tsx
+msgid "here."
+msgstr "在这里。"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Execute cancelled"
+msgstr "执行已取消"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Added Liquidity"
+msgstr "添加流动资金"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Burn failed"
+msgstr "烧毁失败"
+
+#: src/pages/Landing/components/cards/DocumentationCard.tsx
+msgid "Developer docs"
+msgstr "开发者文档"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Collected fees"
+msgstr "收取的费用"
+
+#: src/pages/Landing/components/cards/DownloadWalletCard.tsx
+msgid "The wallet built for swapping. Available on iOS and Android."
+msgstr "用于交换的钱包。可在 iOS 和 Android 上使用。"
+
+#: src/pages/Landing/index.tsx
+msgid "Buy, sell, and explore tokens"
+msgstr "购买、出售和探索令牌"
+
+#: src/components/AccountDrawer/MiniPortfolio/index.tsx
+#: src/components/NavBar/index.tsx
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Pools"
+msgstr "资源库"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Withdrawal cancelled"
+msgstr "提款已取消"
+
+#: src/pages/Landing/sections/DirectToDefi.tsx
+msgid "Go direct to DeFi"
+msgstr "转到Defi"
+
+#: src/components/Banner/MobileAppAnnouncementBanner/index.tsx
+msgid "Download the Uniswap mobile app from the App Store"
+msgstr "从 App Store 下载 Uniswap 移动应用程序"
+
+#: src/components/NavBar/UkDisclaimerModal.tsx
+msgid "Disclaimer for UK residents"
+msgstr "联合王国居民免责声明"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Send failed"
+msgstr "发送失败"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Created pool"
+msgstr "创建池数"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Creating pool"
+msgstr "正在创建资源库"
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Developers"
+msgstr "开发者"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Depositing"
+msgstr "存款"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Limit executed"
+msgstr "执行限制"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Adding liquidity"
+msgstr "添加流动资金"
+
+#: src/pages/Landing/sections/Hero.tsx
+msgid "Scroll to Learn More"
+msgstr "滚动以了解更多"
+
+#: src/pages/Landing/components/DownloadApp/GetTheAppModal.tsx
+msgid "Download the Uniswap app"
+msgstr "下载 Uniswap应用"
+
+#: src/pages/Landing/sections/NewsletterEtc.tsx
+msgid "Insights and news from the team"
+msgstr "团队的洞察和新闻"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Collect fees cancelled"
+msgstr "收取费用已取消"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Remove liquidity cancelled"
+msgstr "删除流动资金已取消"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Swap cancelled"
+msgstr "交换已取消"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Cancellation cancelled"
+msgstr "取消取消"
+
+#: src/components/ErrorBoundary/index.tsx
+#: src/components/ErrorBoundary/index.tsx
+msgid "Something went wrong"
+msgstr "出了错。"
+
+#: src/components/AccountDrawer/MiniPortfolio/Limits/LimitDetailActivityRow.tsx
+msgid "Expires {0}"
+msgstr "过期 {0}"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Buying"
+msgstr "正在购买"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Unknown Send"
+msgstr "未知发送"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/utils.ts
+msgid "This month"
+msgstr "本月"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Unknown Mint"
+msgstr "未知Mint"
+
+#: src/components/AccountDrawer/MiniPortfolio/Limits/OpenLimitOrdersButton.tsx
+msgid "1 open limit"
+msgstr "1 个开放限制"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Minting"
+msgstr "Minting"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Submit proposal cancelled"
+msgstr "提交建议已取消"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Repay cancelled"
+msgstr "还款已取消"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Wrapping"
+msgstr "包装中"
+
+#: src/components/NavBar/SearchBarDropdown.tsx
+msgid "NFT collections"
+msgstr "NFT 收藏"
+
+#: src/pages/RouteDefinitions.tsx
+msgid "Uniswap | Trade crypto & NFTs safely on the top DeFi exchange"
+msgstr "Uniswaps | 交易加密和 NFT安全地在 DeFi 顶部交换机"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Your swap could not be fulfilled at this time. Please try again."
+msgstr "您的交换暂时无法完成。请再试一次。"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/CancelLimitsDialog.tsx
+msgid "Proceed"
+msgstr "继续"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Create pool cancelled"
+msgstr "创建池已取消"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Revoked Approval"
+msgstr "撤销批准"
+
+#: src/components/AccountDrawer/AuthenticatedHeader.tsx
+msgid "Buy"
+msgstr "购买"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Mint cancelled"
+msgstr "Mint 已取消"
+
+#: src/components/Popups/PopupContent.tsx
+msgid "To use Uniswap on {0}, switch the network in your wallet’s settings."
+msgstr "若要在 {0}上使用 Uniswap，请切换钱包设置中的网络。"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "UNI Governance"
+msgstr "UNI Governance"
+
+#: src/constants/tokenSafety.tsx
+msgid "Warning"
+msgstr "警告"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Revoked approval"
+msgstr "撤销批准"
+
+#: src/nft/components/collection/TransactionCompleteModal.tsx
+msgid "View on Etherscan"
+msgstr "在以太扫描上查看"
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "The output token cannot be transferred. There may be an issue with the output token."
+msgstr "无法传输输出令牌。输出令牌可能有问题。"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Sold"
+msgstr "已销售"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Unwrapped"
+msgstr "未包装的"
+
+#: src/pages/Landing/components/cards/WebappCard.tsx
+msgid "Web app"
+msgstr "Web 应用"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Thanks for being part of the Uniswap community <0/>"
+msgstr "感谢成为Uniswap社区的一部分<0/>"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "for"
+msgstr "为"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+msgid "{baseSymbol} and {quoteSymbol}"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Create pool failed"
+msgstr "创建池失败"
+
+#: src/components/Banner/MobileAppAnnouncementBanner/index.tsx
+msgid "Wallet app promo banner thumbnail"
+msgstr "Wallet app promo banner thumbnail"
+
+#: src/components/WalletModal/Option.tsx
+msgid "Don't see your wallet?"
+msgstr "看不到您的钱包吗？"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "Legal & Privacy"
+msgstr "法律与隐私"
+
+#: src/components/Banner/UniTag/index.tsx
+msgid "No thanks"
+msgstr "不要谢谢。"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app securely collects your wallet address and shares it with TRM Labs Inc. for risk and compliance reasons."
+msgstr "由于风险和合规原因，应用程序安全地收集你的钱包地址并与TRM Labs Inc分享它。"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches on-chain data and constructs contract calls with an Infura API."
+msgstr "该应用获取链上的数据并构造与 Infura API的调用合同。"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches blockchain data from The Graph’s hosted service."
+msgstr "应用程序从 The Graph的托管服务获取区块链数据。"
+
+#: src/components/WalletModal/PrivacyPolicyNotice.tsx
+msgid "Privacy Policy."
+msgstr "隐私政策。"
+
+#: src/components/NavBar/SearchBarDropdown.tsx
+msgid "Coming soon: search and explore tokens on Avalanche Chain"
+msgstr "即将到来：在Avalanche Chain 上搜索和探索令牌"
+
+#: src/components/NavBar/ChainSelector.tsx
+msgid "Your wallet's current network is unsupported."
+msgstr "不支持您的钱包当前网络。"
+
+#: src/components/Banner/UniTag/index.tsx
+msgid "Sharing your address has never been easier. Claim now in the mobile app!"
+msgstr "分享您的地址从来没有像现在这样简单。现在在移动应用程序中认领！"
+
+#: src/nft/components/collection/TransactionCompleteModal.tsx
+msgid "Uniswap has granted your wish!"
+msgstr "Uniswap 满足了您的愿望！"
+
+#: src/components/NavBar/index.tsx
+#: src/pages/Landing/sections/Footer.tsx
+#: src/pages/Landing/sections/Hero.tsx
+msgid "Swap"
+msgstr "切换"
+
+#: src/components/AccountDrawer/MiniPortfolio/ExpandoRow.tsx
+msgid "Hide"
+msgstr "隐藏"
+
+#: src/components/AccountDrawer/MiniPortfolio/Pools/index.tsx
+#: src/components/Badge/RangeBadge.tsx
+msgid "In range"
+msgstr "在范围内"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Buy cancelled"
+msgstr "购买已取消"
+
+#: src/components/AccountDrawer/LanguageMenu.tsx
+#: src/components/AccountDrawer/SettingsMenu.tsx
+#: src/components/AccountDrawer/SettingsMenu.tsx
+msgid "Language"
+msgstr "语言"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Cancelled"
+msgstr "已取消"
+
+#: src/components/Banner/MobileAppAnnouncementBanner/index.tsx
+msgid "Download the Uniswap mobile app from the Play Store"
+msgstr "从 Play 商店下载Uniswap移动应用程序"
+
+#: src/components/AccountDrawer/AnalyticsToggle.tsx
+msgid "Allow analytics"
+msgstr "允许分析"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Claim cancelled"
+msgstr "申请已取消"
+
+#: src/components/Banner/Outage/OutageBanner.tsx
+msgid "{0} data is unavailable right now, but we expect the issue to be resolved shortly."
+msgstr "{0} 数据现在不可用，但我们预计这个问题很快会得到解决。"
+
+#: src/components/AccountDrawer/SmallBalanceToggle.tsx
+msgid "Hide small balances"
+msgstr "隐藏小余额"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainActivityModal.tsx
+msgid "Order expired"
+msgstr "订单已过期"
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "Open a new position or create a pool to get started."
+msgstr "打开一个新的位置或创建一个池来开始操作。"
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "Buy or transfer NFTs to this wallet to get started."
+msgstr "购买或转账NFT到这个钱包以开始操作。"
+
+#: src/pages/Landing/components/cards/DocumentationCard.tsx
+msgid "Build the next generation of open applications and tools."
+msgstr "构建下一代开放应用程序和工具。"
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr "尝试执行此交换时发生错误。您可能需要增加您的幻灯片宽度。 如果不能做到，可能与您正在交易的令牌不兼容。 注意：传输和重置基础令牌的费用与 Uniswap V3 不兼容。"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/utils.ts
+msgid "This year"
+msgstr "今年："
+
+#: src/components/WalletModal/PrivacyPolicyNotice.tsx
+msgid "Terms of Service"
+msgstr "服务条款"
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Error ID: {eventId}"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Cancelling"
+msgstr "正在取消"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/utils.ts
+msgid "This week"
+msgstr "本周"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Receiving"
+msgstr "接收中"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Reverse Registrar"
+msgstr "书记官长"
+
+#: src/pages/NotFound/index.tsx
+msgid "Page not found!"
+msgstr "找不到页面！"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Delegate cancelled"
+msgstr "代表已取消"
+
+#: src/components/FiatOnrampModal/index.tsx
+msgid "Something went wrong!"
+msgstr "出现了一些错误！"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Borrow failed"
+msgstr "借款失败"
+
+#: src/components/Banner/Outage/OutageBanner.tsx
+msgid "Data will be back soon"
+msgstr "数据将很快返回"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Receive failed"
+msgstr "接收失败"
+
+#: src/components/NavBar/UkBanner.tsx
+msgid "UK disclaimer:"
+msgstr "英国免责声明："
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Mint failed"
+msgstr "Mint 失败"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Queue cancelled"
+msgstr "队列已取消"
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Deploy cancelled"
+msgstr "部署已取消"
+
+#: src/nft/components/card/media.tsx
+msgid "available yet"
+msgstr "尚可使用"
+
+#: src/utils/errors.ts
+msgid "Your signature has expired."
+msgstr "您的签名已过期。"
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Minted"
+msgstr "已刻录"
+
+#: src/components/Banner/MobileAppAnnouncementBanner/index.tsx
+#: src/components/Banner/Outage/OutageBanner.tsx
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/PrivacyPolicy/index.tsx
+#: src/pages/Landing/index.tsx
+#: src/pages/Landing/sections/Stats.tsx
+msgid "Learn more"
+msgstr "了解更多"
+
