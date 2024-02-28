@@ -1,0 +1,1580 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-02-28 12:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: uniswap\n"
+"X-Crowdin-Project-ID: 652136\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /[1999321.Uniswap-web] main/apps/web/src/locales/en-US.po\n"
+"X-Crowdin-File-ID: 14\n"
+"Project-Id-Version: uniswap\n"
+"Language-Team: Chinese Simplified\n"
+"PO-Revision-Date: 2024-02-28 13:40\n"
+
+#: src/constants/tokenSafety.tsx
+msgid "{0, plural, =1 {This token isn't traded on leading U.S. centralized exchanges.} other {These tokens aren't traded on leading U.S. centralized exchanges.}}"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Unknown Swap"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/CancelLimitsDialog.tsx
+msgid "Nevermind"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Limits/OpenLimitOrdersButton.tsx
+msgid "{0, plural, =1 {{1}} other {{2}}}"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Add V2 liquidity failed"
+msgstr ""
+
+#: src/pages/Landing/index.tsx
+msgid "Buy, sell, and explore tokens and NFTs"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Limits/LimitDetailActivityRow.tsx
+msgid "when {0} {1}/{2}"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Receive cancelled"
+msgstr ""
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "Your onchain transactions and crypto purchases will appear here."
+msgstr ""
+
+#: src/components/Banner/MobileAppAnnouncementBanner/index.tsx
+#: src/pages/Landing/components/DownloadApp/GetTheAppButton.tsx
+msgid "Get the app"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Withdrew"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Collect fees failed"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Removed Liquidity"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Deploying"
+msgstr ""
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "No tokens yet"
+msgstr ""
+
+#: src/pages/Landing/sections/Stats.tsx
+msgid "24H volume"
+msgstr ""
+
+#: src/pages/Landing/components/cards/LiquidityCard.tsx
+msgid "Provide Liquidity"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "ETH Registrar Controller"
+msgstr ""
+
+#: src/components/NavBar/UkDisclaimerModal.tsx
+msgid "Dismiss"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainActivityModal.tsx
+msgid "Order pending"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Queuing"
+msgstr ""
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "Explore tokens"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Added V2 liquidity"
+msgstr ""
+
+#: src/constants/tokenSafety.tsx
+msgid "{0, plural, =1 {This token isn't traded on leading U.S. centralized exchanges or frequently swapped on Uniswap.} other {These tokens aren't traded on leading U.S. centralized exchanges or frequently swapped on Uniswap.}}"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Ethereum Name Service"
+msgstr ""
+
+#: src/pages/Landing/sections/Stats.tsx
+msgid "All time swappers"
+msgstr ""
+
+#: src/components/Polling/ChainConnectivityWarning.tsx
+msgid "{label} might be down right now, or you may have lost your network connection."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Burning"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Borrowing"
+msgstr ""
+
+#: src/components/Polling/ChainConnectivityWarning.tsx
+msgid "Network warning"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Your limit could not be fulfilled at this time. Please try again."
+msgstr ""
+
+#: src/components/AccountDrawer/UniwalletModal.tsx
+msgid "Scan with Uniswap Wallet"
+msgstr ""
+
+#: src/components/WalletModal/ConnectionErrorView.tsx
+msgid "The connection attempt failed. Please click try again and follow the steps to connect in your wallet."
+msgstr ""
+
+#: src/components/NavBar/SearchBarDropdown.tsx
+msgid "Recent searches"
+msgstr ""
+
+#: src/components/NavBar/SearchBarDropdown.tsx
+msgid "Popular NFT collections"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Deposited"
+msgstr ""
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "{0} Try increasing your slippage tolerance.\n"
+"Note: fee-on-transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Delegate failed"
+msgstr ""
+
+#: src/components/WalletModal/index.tsx
+msgid "Fiat onramp powered by MoonPay USA LLC"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "DNS Registrar"
+msgstr ""
+
+#: src/pages/Landing/sections/Stats.tsx
+msgid "All time volume"
+msgstr ""
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Protocol"
+msgstr ""
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches the optimal trade route from a Uniswap Labs server."
+msgstr ""
+
+#: src/constants/tokenSafety.tsx
+msgid "Token not found"
+msgstr ""
+
+#: src/nft/components/collection/TransactionCompleteModal.tsx
+msgid "Complete!"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/index.tsx
+#: src/components/NavBar/index.tsx
+#: src/components/NavBar/SearchBarDropdown.tsx
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Tokens"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Repay failed"
+msgstr ""
+
+#: src/pages/Landing/components/cards/LiquidityCard.tsx
+msgid "Liquidity"
+msgstr ""
+
+#: src/components/WalletModal/PrivacyPolicyNotice.tsx
+msgid "and consent to its"
+msgstr ""
+
+#: src/components/NavBar/ChainSelectorRow.tsx
+msgid "Approve in wallet"
+msgstr ""
+
+#: src/pages/Landing/index.tsx
+msgid "Trade crypto with confidence"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Your account had insufficent funds to complete this swap."
+msgstr ""
+
+#: src/pages/Landing/sections/Stats.tsx
+#: src/pages/Landing/sections/Stats.tsx
+msgid "Trusted by millions"
+msgstr ""
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Company"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Approved"
+msgstr ""
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Sorry, an error occured while processing your request. If you request support, be sure to copy the details of this error."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Bought"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/index.tsx
+#: src/components/NavBar/index.tsx
+#: src/pages/Landing/sections/Footer.tsx
+msgid "NFTs"
+msgstr ""
+
+#: src/components/Web3Status/index.tsx
+msgid "{pendingActivityCount} Pending"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Add liquidity cancelled"
+msgstr ""
+
+#: src/components/NavBar/index.tsx
+msgid "Explore"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/ExpandoRow.tsx
+msgid "Show"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Queued"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Limit opened"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Claim failed"
+msgstr ""
+
+#: src/components/NavBar/SearchBarDropdown.tsx
+msgid "Popular tokens"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainActivityModal.tsx
+msgid "Order executed"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Sending"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainOrderLineItem.tsx
+msgid "Transaction ID"
+msgstr ""
+
+#: src/components/NavBar/SearchBar.tsx
+msgid "Search"
+msgstr ""
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "+ New position"
+msgstr ""
+
+#: src/components/Banner/MobileAppAnnouncementBanner/index.tsx
+msgid "Download the Uniswap mobile app for iOS and Android"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Repaid"
+msgstr ""
+
+#: src/components/Button/GetHelp.tsx
+msgid "Get help"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Migrating liquidity"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Burn cancelled"
+msgstr ""
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "Explore NFTs"
+msgstr ""
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Contact us"
+msgstr ""
+
+#: src/pages/Landing/sections/Footer.tsx
+#: src/pages/Landing/sections/NewsletterEtc.tsx
+msgid "Help Center"
+msgstr ""
+
+#: src/components/WalletModal/PrivacyPolicyNotice.tsx
+msgid "Last updated"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Deposit cancelled"
+msgstr ""
+
+#: src/components/WalletModal/Option.tsx
+msgid "Recent"
+msgstr ""
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app logs anonymized usage statistics in order to improve over time."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Swap failed"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/ExpandoRow.tsx
+msgid "Hidden"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Pools/index.tsx
+#: src/components/Badge/RangeBadge.tsx
+msgid "Closed"
+msgstr ""
+
+#: src/pages/Landing/sections/Stats.tsx
+msgid "Uniswap products are powered by the Uniswap Protocol. The protocol is the largest onchain marketplace, with billions of dollars in weekly volume across thousands of tokens on Ethereum and 7+ additional chains."
+msgstr ""
+
+#: src/nft/components/card/icons.tsx
+msgid "Blocked on OpenSea"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+msgid "Unknown"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Limits/LimitsMenu.tsx
+msgid "Open limits"
+msgstr ""
+
+#: src/components/ErrorBoundary/index.tsx
+#: src/pages/Landing/sections/NewsletterEtc.tsx
+msgid "Get support"
+msgstr ""
+
+#: src/pages/RouteDefinitions.tsx
+msgid "Buy, sell & trade Ethereum and other top tokens on Uniswap"
+msgstr ""
+
+#: src/theme/components/ThemeToggle.tsx
+msgid "Theme"
+msgstr ""
+
+#: src/pages/Landing/sections/NewsletterEtc.tsx
+msgid "Stay connected"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Uniswap Protocol"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Limit failed"
+msgstr ""
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "This transaction will not succeed either due to price movement or fee on transfer. Try increasing your slippage tolerance."
+msgstr ""
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "No pools yet"
+msgstr ""
+
+#: src/pages/NotFound/index.tsx
+msgid "Oops, take me back to Swap"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "from"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Removed liquidity"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Send cancelled"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Submitted proposal"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Execute failed"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainActivityModal.tsx
+msgid "Order cancelled"
+msgstr ""
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Need help?"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Borrow cancelled"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Add liquidity failed"
+msgstr ""
+
+#: src/components/Popups/PopupContent.tsx
+msgid "Failed to switch networks"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+msgid "and"
+msgstr ""
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Claim your UNI tokens"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Unknown Lend"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Limits/OpenLimitOrdersButton.tsx
+msgid "Cancel limits to proceed"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Deployed"
+msgstr ""
+
+#: src/components/Polling/ChainConnectivityWarning.tsx
+msgid "Check network status"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Voted"
+msgstr ""
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is outside of your selected range. Your position is not currently earning fees."
+msgstr ""
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "{0}"
+msgstr ""
+
+#: src/components/Banner/UniTag/index.tsx
+msgid "Claim now"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Remove liquidity failed"
+msgstr ""
+
+#: src/components/WalletModal/ConnectionErrorView.tsx
+msgid "Error connecting"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Swapping"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Withdraw failed"
+msgstr ""
+
+#: src/components/WalletModal/ConnectionErrorView.tsx
+msgid "Try again"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Claiming"
+msgstr ""
+
+#: src/pages/Landing/sections/NewsletterEtc.tsx
+msgid "Follow @Uniswap on X for the latest updates"
+msgstr ""
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Terms & Privacy"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Executed"
+msgstr ""
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Reload the app"
+msgstr ""
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "Privacy Policy"
+msgstr ""
+
+#: src/components/WalletModal/PrivacyPolicyNotice.tsx
+msgid "By connecting a wallet, you agree to Uniswap Labs'"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Contract Interaction"
+msgstr ""
+
+#: src/components/Polling/index.tsx
+msgid "The most recent block number on this network. Prices update on every block."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Approval cancelled"
+msgstr ""
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "Your position has 0 liquidity, and is not earning fees."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Wrap cancelled"
+msgstr ""
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "The input token cannot be transferred. There may be an issue with the input token."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Unwrap failed"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Revoke approval failed"
+msgstr ""
+
+#: src/constants/tokenSafety.tsx
+#: src/constants/tokenSafety.tsx
+msgid "Always conduct your own research before trading."
+msgstr ""
+
+#: src/constants/tokenSafety.tsx
+msgid "Not available"
+msgstr ""
+
+#: src/components/AccountDrawer/AnalyticsToggle.tsx
+msgid "We use anonymized data to enhance your experience with Uniswap Labs products."
+msgstr ""
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "This transaction could not be sent because the deadline has passed. Please check that your transaction deadline is not too low."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Limit cancelled"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Wrapped"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Approval failed"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Public Resolver"
+msgstr ""
+
+#: src/theme/components/index.tsx
+msgid "Copied!"
+msgstr ""
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Sorry, an error occured while processing your request. If you request support, be sure to provide your error ID."
+msgstr ""
+
+#: src/components/AccountDrawer/LocalCurrencyMenu.tsx
+#: src/components/AccountDrawer/SettingsMenu.tsx
+msgid "Currency"
+msgstr ""
+
+#: src/components/AccountDrawer/SettingsMenu.tsx
+msgid "Preferences"
+msgstr ""
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "Buy or transfer tokens to this wallet to get started."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Withdrawing"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Swapped"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Pools/index.tsx
+msgid "Closed Positions"
+msgstr ""
+
+#: src/components/NavBar/UkBanner.tsx
+msgid "Read more"
+msgstr ""
+
+#: src/pages/Landing/components/cards/LiquidityCard.tsx
+msgid "Provide liquidity to pools on the Uniswap Protocol and earn fees on swaps."
+msgstr ""
+
+#: src/theme/components/ThemeToggle.tsx
+msgid "Auto"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Cancel failed"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Collecting fees"
+msgstr ""
+
+#: src/components/AccountDrawer/TestnetsToggle.tsx
+msgid "Show testnets"
+msgstr ""
+
+#: src/components/NavBar/SearchBarDropdown.tsx
+msgid "No tokens found."
+msgstr ""
+
+#: src/components/Logo/HolidayUniIcon.tsx
+msgid "Happy Holidays from the Uniswap team!"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Buy failed"
+msgstr ""
+
+#: src/constants/tokenSafety.tsx
+msgid "{0, plural, =1 {You can't trade this token using the Uniswap App.} other {You can't trade these tokens using the Uniswap App.}}"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Limits/OpenLimitOrdersButton.tsx
+msgid "Approaching 100 limit maximum"
+msgstr ""
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "The output token cannot be transferred. There may be an issue with the output token. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr ""
+
+#: src/components/NavBar/ChainSelectorRow.tsx
+msgid "Unsupported by your wallet"
+msgstr ""
+
+#: src/components/ConnectedAccountBlocked/index.tsx
+msgid "blocked activities"
+msgstr ""
+
+#: src/components/AccountDrawer/SettingsMenu.tsx
+msgid "Settings"
+msgstr ""
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Brand Assets"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/utils.ts
+msgid "Pending"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Removing liquidity"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Repaying"
+msgstr ""
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Careers"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Migrate liquidity cancelled"
+msgstr ""
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "This transaction will not succeed due to price movement. Try increasing your slippage tolerance. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr ""
+
+#: src/constants/tokenSafety.tsx
+msgid "Caution"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Voting"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Submit proposal failed"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Vote failed"
+msgstr ""
+
+#: src/pages/Landing/sections/Hero.tsx
+msgid "The largest onchain marketplace. Buy and sell crypto on Ethereum and 7+ other chains."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Limit expired"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Revoking approval"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Swap expired"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Deploy failed"
+msgstr ""
+
+#: src/components/NavBar/UkBanner.tsx
+msgid "This web application is provided as a tool for users to interact with the Uniswap Protocol on\n"
+"their own initiative, with no endorsement or recommendation of cryptocurrency trading activities. In doing so,\n"
+"Uniswap is not recommending that users or potential users engage in cryptoasset trading activity, and users or\n"
+"potential users of the web application should not regard this webpage or its contents as involving any form of\n"
+"recommendation, invitation or inducement to deal in cryptoassets."
+msgstr ""
+
+#: src/components/ConnectedAccountBlocked/index.tsx
+msgid "If you believe this is an error, please send an email including your address to"
+msgstr ""
+
+#: src/utils/errors.ts
+msgid "Your wallet is connected to the wrong network."
+msgstr ""
+
+#: src/pages/Landing/index.tsx
+msgid "Trade crypto and NFTs with confidence"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/index.tsx
+msgid "Activity"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Added liquidity"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Delegated"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Migrated liquidity"
+msgstr ""
+
+#: src/components/FiatOnrampModal/index.tsx
+msgid "Powered by MoonPay USA LLC"
+msgstr ""
+
+#: src/pages/Landing/index.tsx
+msgid "Get started"
+msgstr ""
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Trademark Policy"
+msgstr ""
+
+#: src/components/Banner/MobileAppAnnouncementBanner/index.tsx
+msgid "Download now"
+msgstr ""
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is within your selected range. Your position is currently earning fees."
+msgstr ""
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "No activity yet"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainOrderLineItem.tsx
+msgid "Expiry"
+msgstr ""
+
+#: src/pages/Landing/sections/Footer.tsx
+#: src/pages/Landing/sections/NewsletterEtc.tsx
+msgid "Blog"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Unknown Approval"
+msgstr ""
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "UNI has arrived"
+msgstr ""
+
+#: src/components/AccountDrawer/SpamToggle.tsx
+msgid "Hide unknown tokens & NFTs"
+msgstr ""
+
+#: src/pages/Landing/components/DownloadApp/GetTheAppModal.tsx
+msgid "Scan the QR code with your phone to download the Uniswap app"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainOrderLineItem.tsx
+msgid "Network cost"
+msgstr ""
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "This app uses the following third-party APIs:"
+msgstr ""
+
+#: src/components/ConnectedAccountBlocked/index.tsx
+msgid "Blocked address"
+msgstr ""
+
+#: src/nft/components/card/media.tsx
+msgid "Content not"
+msgstr ""
+
+#: src/pages/Landing/components/cards/WebappCard.tsx
+msgid "Swapping made simple. Access thousands of tokens on 8+ chains."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Insufficient funds"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Executing"
+msgstr ""
+
+#. js-lingui-explicit-id
+#: src/components/AccountDrawer/MiniPortfolio/Activity/CancelLimitsDialog.tsx
+#: src/components/AccountDrawer/MiniPortfolio/Limits/LimitsMenu.tsx
+msgid "cancelling"
+msgstr ""
+
+#. js-lingui-explicit-id
+#: src/components/AccountDrawer/MiniPortfolio/Activity/CancelLimitsDialog.tsx
+msgid "cancelling-confirmation"
+msgstr ""
+
+#: src/components/AccountDrawer/GitVersionRow.tsx
+msgid "Version:"
+msgstr ""
+
+#: src/pages/Landing/sections/Hero.tsx
+msgid "anywhere."
+msgstr ""
+
+#: src/components/Toggle/PillMultiToggle.tsx
+msgid "{value}"
+msgstr ""
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Governance"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainActivityModal.tsx
+msgid "Cancel"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "to"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Wrap failed"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Purchased"
+msgstr ""
+
+#: src/components/NavBar/SearchBar.tsx
+msgid "Search tokens and NFT collections"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Migrate liquidity failed"
+msgstr ""
+
+#: src/components/AccountDrawer/AuthenticatedHeader.tsx
+msgid "Restricted region"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/utils.ts
+msgid "Today"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Queue failed"
+msgstr ""
+
+#: src/components/Banner/UniTag/index.tsx
+msgid "Claim your Uniswap username"
+msgstr ""
+
+#: src/pages/Landing/sections/Stats.tsx
+msgid "All time LP fees"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Unwrapping"
+msgstr ""
+
+#: src/components/WalletModal/ConnectionErrorView.tsx
+msgid "Back to wallet selection"
+msgstr ""
+
+#: src/pages/Landing/sections/Hero.tsx
+msgid "anytime,"
+msgstr ""
+
+#: src/components/NavBar/NavIcon.tsx
+msgid "Navigation button"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Borrowed"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Permit2"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Received"
+msgstr ""
+
+#: src/pages/Landing/components/cards/DownloadWalletCard.tsx
+msgid "Uniswap wallet"
+msgstr ""
+
+#: src/components/AccountDrawer/AuthenticatedHeader.tsx
+msgid "View NFTs"
+msgstr ""
+
+#: src/components/Banner/Outage/OutageBanner.tsx
+msgid "You can still swap and provide liquidity for this token without issue."
+msgstr ""
+
+#: src/components/AccountDrawer/UniwalletModal.tsx
+msgid "Don't have a Uniswap wallet?"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainOrderLineItem.tsx
+msgid "Rate"
+msgstr ""
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "The Uniswap invariant x*y=k was not satisfied by the swap. This usually means one of the tokens you are swapping incorporates custom behavior on transfer."
+msgstr ""
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "Transaction rejected"
+msgstr ""
+
+#: src/components/NavBar/SearchBar.tsx
+msgid "Search tokens"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Limits/OpenLimitOrdersButton.tsx
+msgid "{0} open limits"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Vote cancelled"
+msgstr ""
+
+#: src/connection/index.ts
+#: src/connection/index.ts
+msgid "Browser Wallet"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Delegating"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Sent"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Claimed"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainActivityModal.tsx
+msgid "Transaction details"
+msgstr ""
+
+#: src/components/AccountDrawer/UniwalletModal.tsx
+msgid "Safely store and swap tokens with the Uniswap app. Available on iOS and Android."
+msgstr ""
+
+#: src/components/FiatOnrampModal/index.tsx
+msgid "MoonPay fiat on-ramp iframe"
+msgstr ""
+
+#: src/components/AccountDrawer/AuthenticatedHeader.tsx
+msgid "Moonpay is not available in some regions. Click to learn more."
+msgstr ""
+
+#: src/components/ConnectedAccountBlocked/index.tsx
+msgid "This address is blocked on the Uniswap Labs interface because it is associated with one or more"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Deposit failed"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Burned"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Pools/index.tsx
+#: src/components/Badge/RangeBadge.tsx
+msgid "Out of range"
+msgstr ""
+
+#: src/pages/Landing/sections/NewsletterEtc.tsx
+msgid "Connect with us"
+msgstr ""
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "Uniswap Labs' Terms of Service"
+msgstr ""
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "No NFTs yet"
+msgstr ""
+
+#: src/components/Web3Status/index.tsx
+msgid "Connect"
+msgstr ""
+
+#: src/components/Polling/ChainConnectivityWarning.tsx
+msgid "You may have lost your network connection."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Add V2 liquidity cancelled"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Approving"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Submitting proposal"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Adding V2 liquidity"
+msgstr ""
+
+#: src/components/Polling/ChainConnectivityWarning.tsx
+msgid "here."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Execute cancelled"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Added Liquidity"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Burn failed"
+msgstr ""
+
+#: src/pages/Landing/components/cards/DocumentationCard.tsx
+msgid "Developer docs"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Collected fees"
+msgstr ""
+
+#: src/pages/Landing/components/cards/DownloadWalletCard.tsx
+msgid "The wallet built for swapping. Available on iOS and Android."
+msgstr ""
+
+#: src/pages/Landing/index.tsx
+msgid "Buy, sell, and explore tokens"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/index.tsx
+#: src/components/NavBar/index.tsx
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Pools"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Withdrawal cancelled"
+msgstr ""
+
+#: src/pages/Landing/sections/DirectToDefi.tsx
+msgid "Go direct to DeFi"
+msgstr ""
+
+#: src/components/Banner/MobileAppAnnouncementBanner/index.tsx
+msgid "Download the Uniswap mobile app from the App Store"
+msgstr ""
+
+#: src/components/NavBar/UkDisclaimerModal.tsx
+msgid "Disclaimer for UK residents"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Send failed"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Created pool"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Creating pool"
+msgstr ""
+
+#: src/pages/Landing/sections/Footer.tsx
+msgid "Developers"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Depositing"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Limit executed"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Adding liquidity"
+msgstr ""
+
+#: src/pages/Landing/sections/Hero.tsx
+msgid "Scroll to Learn More"
+msgstr ""
+
+#: src/pages/Landing/components/DownloadApp/GetTheAppModal.tsx
+msgid "Download the Uniswap app"
+msgstr ""
+
+#: src/pages/Landing/sections/NewsletterEtc.tsx
+msgid "Insights and news from the team"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Collect fees cancelled"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Remove liquidity cancelled"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Swap cancelled"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Cancellation cancelled"
+msgstr ""
+
+#: src/components/ErrorBoundary/index.tsx
+#: src/components/ErrorBoundary/index.tsx
+msgid "Something went wrong"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Limits/LimitDetailActivityRow.tsx
+msgid "Expires {0}"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Buying"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Unknown Send"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/utils.ts
+msgid "This month"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Unknown Mint"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Limits/OpenLimitOrdersButton.tsx
+msgid "1 open limit"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Minting"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Submit proposal cancelled"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Repay cancelled"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Wrapping"
+msgstr ""
+
+#: src/components/NavBar/SearchBarDropdown.tsx
+msgid "NFT collections"
+msgstr ""
+
+#: src/pages/RouteDefinitions.tsx
+msgid "Uniswap | Trade crypto & NFTs safely on the top DeFi exchange"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Your swap could not be fulfilled at this time. Please try again."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/CancelLimitsDialog.tsx
+msgid "Proceed"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Create pool cancelled"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Revoked Approval"
+msgstr ""
+
+#: src/components/AccountDrawer/AuthenticatedHeader.tsx
+msgid "Buy"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Mint cancelled"
+msgstr ""
+
+#: src/components/Popups/PopupContent.tsx
+msgid "To use Uniswap on {0}, switch the network in your wallet’s settings."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "UNI Governance"
+msgstr ""
+
+#: src/constants/tokenSafety.tsx
+msgid "Warning"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Revoked approval"
+msgstr ""
+
+#: src/nft/components/collection/TransactionCompleteModal.tsx
+msgid "View on Etherscan"
+msgstr ""
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "The output token cannot be transferred. There may be an issue with the output token."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Sold"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Unwrapped"
+msgstr ""
+
+#: src/pages/Landing/components/cards/WebappCard.tsx
+msgid "Web app"
+msgstr ""
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Thanks for being part of the Uniswap community <0/>"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "for"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseLocal.ts
+msgid "{baseSymbol} and {quoteSymbol}"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Create pool failed"
+msgstr ""
+
+#: src/components/Banner/MobileAppAnnouncementBanner/index.tsx
+msgid "Wallet app promo banner thumbnail"
+msgstr ""
+
+#: src/components/WalletModal/Option.tsx
+msgid "Don't see your wallet?"
+msgstr ""
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "Legal & Privacy"
+msgstr ""
+
+#: src/components/Banner/UniTag/index.tsx
+msgid "No thanks"
+msgstr ""
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app securely collects your wallet address and shares it with TRM Labs Inc. for risk and compliance reasons."
+msgstr ""
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches on-chain data and constructs contract calls with an Infura API."
+msgstr ""
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches blockchain data from The Graph’s hosted service."
+msgstr ""
+
+#: src/components/WalletModal/PrivacyPolicyNotice.tsx
+msgid "Privacy Policy."
+msgstr ""
+
+#: src/components/NavBar/SearchBarDropdown.tsx
+msgid "Coming soon: search and explore tokens on Avalanche Chain"
+msgstr ""
+
+#: src/components/NavBar/ChainSelector.tsx
+msgid "Your wallet's current network is unsupported."
+msgstr ""
+
+#: src/components/Banner/UniTag/index.tsx
+msgid "Sharing your address has never been easier. Claim now in the mobile app!"
+msgstr ""
+
+#: src/nft/components/collection/TransactionCompleteModal.tsx
+msgid "Uniswap has granted your wish!"
+msgstr ""
+
+#: src/components/NavBar/index.tsx
+#: src/pages/Landing/sections/Footer.tsx
+#: src/pages/Landing/sections/Hero.tsx
+msgid "Swap"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/ExpandoRow.tsx
+msgid "Hide"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Pools/index.tsx
+#: src/components/Badge/RangeBadge.tsx
+msgid "In range"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Buy cancelled"
+msgstr ""
+
+#: src/components/AccountDrawer/LanguageMenu.tsx
+#: src/components/AccountDrawer/SettingsMenu.tsx
+#: src/components/AccountDrawer/SettingsMenu.tsx
+msgid "Language"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Cancelled"
+msgstr ""
+
+#: src/components/Banner/MobileAppAnnouncementBanner/index.tsx
+msgid "Download the Uniswap mobile app from the Play Store"
+msgstr ""
+
+#: src/components/AccountDrawer/AnalyticsToggle.tsx
+msgid "Allow analytics"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Claim cancelled"
+msgstr ""
+
+#: src/components/Banner/Outage/OutageBanner.tsx
+msgid "{0} data is unavailable right now, but we expect the issue to be resolved shortly."
+msgstr ""
+
+#: src/components/AccountDrawer/SmallBalanceToggle.tsx
+msgid "Hide small balances"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/OffchainActivityModal.tsx
+msgid "Order expired"
+msgstr ""
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "Open a new position or create a pool to get started."
+msgstr ""
+
+#: src/nft/components/profile/view/EmptyWalletContent.tsx
+msgid "Buy or transfer NFTs to this wallet to get started."
+msgstr ""
+
+#: src/pages/Landing/components/cards/DocumentationCard.tsx
+msgid "Build the next generation of open applications and tools."
+msgstr ""
+
+#: src/utils/swapErrorToUserReadableMessage.tsx
+msgid "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note: fee on transfer and rebase tokens are incompatible with Uniswap V3."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/utils.ts
+msgid "This year"
+msgstr ""
+
+#: src/components/WalletModal/PrivacyPolicyNotice.tsx
+msgid "Terms of Service"
+msgstr ""
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Error ID: {eventId}"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Cancelling"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/utils.ts
+msgid "This week"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Receiving"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+msgid "Reverse Registrar"
+msgstr ""
+
+#: src/pages/NotFound/index.tsx
+msgid "Page not found!"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Delegate cancelled"
+msgstr ""
+
+#: src/components/FiatOnrampModal/index.tsx
+msgid "Something went wrong!"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Borrow failed"
+msgstr ""
+
+#: src/components/Banner/Outage/OutageBanner.tsx
+msgid "Data will be back soon"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Receive failed"
+msgstr ""
+
+#: src/components/NavBar/UkBanner.tsx
+msgid "UK disclaimer:"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Mint failed"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Queue cancelled"
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Deploy cancelled"
+msgstr ""
+
+#: src/nft/components/card/media.tsx
+msgid "available yet"
+msgstr ""
+
+#: src/utils/errors.ts
+msgid "Your signature has expired."
+msgstr ""
+
+#: src/components/AccountDrawer/MiniPortfolio/Activity/parseRemote.tsx
+#: src/components/AccountDrawer/MiniPortfolio/constants.tsx
+msgid "Minted"
+msgstr ""
+
+#: src/components/Banner/MobileAppAnnouncementBanner/index.tsx
+#: src/components/Banner/Outage/OutageBanner.tsx
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/PrivacyPolicy/index.tsx
+#: src/pages/Landing/index.tsx
+#: src/pages/Landing/sections/Stats.tsx
+msgid "Learn more"
+msgstr ""
+
