@@ -3,7 +3,7 @@
 
 # generated contract types
 /src/locales/**/*.js
-/src/locales/**/*.po
+
 
 # generated files
 /src/**/__generated__
