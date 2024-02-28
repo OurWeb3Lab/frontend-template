@@ -1,0 +1,1 @@
+openapi-generator-cli 需要系统具备java的环境

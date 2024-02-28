@@ -1,0 +1,30 @@
+IPFS hash of the deployment:
+- CIDv0: `QmVUZGU9EBHPpn3BZRhKTQB5VZuDtv2PUetyHxxpfmzcp9`
+- CIDv1: `bafybeidkbbgtppk3euej56wgoxllerdoggnsz3fgkirnhrgvlbmff4reii`
+
+The latest release is always mirrored at [app.uniswap.org](https://app.uniswap.org).
+
+You can also access the Uniswap Interface from an IPFS gateway.
+**BEWARE**: The Uniswap interface uses [`localStorage`](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) to remember your settings, such as which tokens you have imported.
+**You should always use an IPFS gateway that enforces origin separation**, or our hosted deployment of the latest release at [app.uniswap.org](https://app.uniswap.org).
+Your Uniswap settings are never remembered across different URLs.
+
+IPFS gateways:
+- https://bafybeidkbbgtppk3euej56wgoxllerdoggnsz3fgkirnhrgvlbmff4reii.ipfs.dweb.link/
+- https://bafybeidkbbgtppk3euej56wgoxllerdoggnsz3fgkirnhrgvlbmff4reii.ipfs.cf-ipfs.com/
+- [ipfs://QmVUZGU9EBHPpn3BZRhKTQB5VZuDtv2PUetyHxxpfmzcp9/](ipfs://QmVUZGU9EBHPpn3BZRhKTQB5VZuDtv2PUetyHxxpfmzcp9/)
+
+## 5.11.0 (2024-02-20)
+
+
+### Features
+
+* **web:** [uni-tags] show username in header (#6353) 28fbb53
+* **web:** move PDP in-chart fees display to tooltip (#6288) eaad394
+
+
+### Bug Fixes
+
+* **web:** swap e2e tests (#6412) d5a637e
+
+
