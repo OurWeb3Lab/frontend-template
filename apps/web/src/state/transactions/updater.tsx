@@ -28,7 +28,7 @@ export function toSerializableReceipt(receipt: TransactionReceipt): Serializable
 }
 
 export default function Updater() {
-  console.log("start transactions")
+  // console.log("start transactions")
   const analyticsContext = useTrace()
   const { chainId } = useWeb3React()
   const addPopup = useAddPopup()
@@ -74,7 +74,7 @@ export default function Updater() {
     },
     [addPopup, analyticsContext, dispatch, isL2, pendingTransactions]
   )
-  console.log("end transactions")
+  // console.log("end transactions")
 
   return <LibUpdater pendingTransactions={pendingTransactions} onCheck={onCheck} onReceipt={onReceipt} />
 }

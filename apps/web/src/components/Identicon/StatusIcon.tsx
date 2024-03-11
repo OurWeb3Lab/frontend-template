@@ -125,7 +125,7 @@ export default function StatusIcon({
   showMiniIcons?: boolean
 }) {
   const hasSocks = useHasSocks()
-
+  console.log("hasSocks:",hasSocks,size)
   return (
     <IconWrapper size={size} data-testid="StatusIconRoot">
       <MainWalletIcon account={account} connection={connection} size={size} />

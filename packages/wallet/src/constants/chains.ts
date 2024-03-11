@@ -131,7 +131,7 @@ export const CHAIN_INFO: ChainInfo = {
       decimals: 18,
       address: '0x82af49447d8a07e3bd95bd0d56f35241523fbab1',
     },
-    rpcUrls: { [RPCType.PublicAlt]: 'https://arb1.arbitrum.io/rpc' },
+    rpcUrls: { [RPCType.PublicAlt]: 'https://arb1.arbitrum.io/rpc:1' },
   },
   [ChainId.Mainnet]: {
     blockWaitMsBeforeWarning: 60000, // 1 minute

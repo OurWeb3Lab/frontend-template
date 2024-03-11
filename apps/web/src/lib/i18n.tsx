@@ -10,7 +10,8 @@ i18n.load(DEFAULT_LOCALE, DEFAULT_MESSAGES)
 i18n.activate(DEFAULT_LOCALE)
 
 export async function dynamicActivate(locale: SupportedLocale) {
-  if (i18n.locale === locale) return
+  //console.log("dynamicActivate:",i18n.locale,locale)
+  // if (i18n.locale === locale) return
   try {
     const catalog = await import(`locales/${locale}.js`)
     // Bundlers will either export it as default or as a named export named default.
@@ -18,7 +19,9 @@ export async function dynamicActivate(locale: SupportedLocale) {
   } catch (error: unknown) {
     console.error(new Error(`Unable to load locale (${locale}): ${error}`))
   }
+  //console.log("i18n.locale:",i18n.locale,locale)
   i18n.activate(locale)
+  //console.log("i18n.locale:",i18n.locale,locale)
 }
 
 interface ProviderProps {
@@ -28,9 +31,13 @@ interface ProviderProps {
 }
 
 export function Provider({ locale, onActivate, children }: ProviderProps) {
+  
   useEffect(() => {
     dynamicActivate(locale)
-      .then(() => onActivate?.(locale))
+      .then(() => {
+        //console.log("Provider:",locale)
+        onActivate?.(locale)
+      })
       .catch((error) => {
         console.error('Failed to activate locale', locale, error)
       })

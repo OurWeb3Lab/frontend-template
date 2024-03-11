@@ -9,6 +9,7 @@ import {
 import { getChainInfo } from 'constants/chainInfo'
 import { SupportedInterfaceChain, isSupportedChain } from 'constants/chains'
 import { FALLBACK_URLS, RPC_URLS } from 'constants/networks'
+import { env } from 'process'
 import { useCallback } from 'react'
 import { useAppDispatch } from 'state/hooks'
 import { endSwitchingChain, startSwitchingChain } from 'state/wallets/reducer'
@@ -32,7 +33,9 @@ export function useSwitchChain() {
 
   return useCallback(
     async (connector: Connector, chainId: ChainId) => {
-      if (!isSupportedChain(chainId)) {
+      //console.log("isSupportedChain:",chainId.valueOf(),Number(process.env.TEST_CHAIN_ID),process.env.TEST_CHAIN_ID,chainId.valueOf() != Number(process.env.TEST_CHAIN_ID))
+      if (!isSupportedChain(chainId) && chainId.valueOf() != 31337) {
+        console.log("isSupportedChain:",chainId)
         throw new Error(`Chain ${chainId} not supported for connector (${typeof connector})`)
       } else {
         dispatch(startSwitchingChain(chainId))
@@ -51,7 +54,7 @@ export function useSwitchChain() {
             const addChainParameter = {
               chainId,
               chainName: info.label,
-              rpcUrls: [getRpcUrl(chainId)],
+              rpcUrls: [getRpcUrl(chainId as any)],
               nativeCurrency: info.nativeCurrency,
               blockExplorerUrls: [info.explorer],
             }

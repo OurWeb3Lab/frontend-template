@@ -3,7 +3,7 @@ import ms from 'ms'
 import { darkTheme } from 'theme/colors'
 
 import { SupportedL1ChainId, SupportedL2ChainId } from './chains'
-import { ARBITRUM_LIST, AVALANCHE_LIST, BASE_LIST, CELO_LIST, OPTIMISM_LIST, PLASMA_BNB_LIST } from './lists'
+import { ARBITRUM_LIST, AVALANCHE_LIST, BASE_LIST, CELO_LIST, OPTIMISM_LIST, PLASMA_BNB_LIST, PLP_LIST } from './lists'
 
 export const AVERAGE_L1_BLOCK_TIME = ms(`12s`)
 
@@ -56,8 +56,8 @@ export interface L2ChainInfo extends BaseChainInfo {
 type ChainInfoMap = { readonly [chainId: number]: L1ChainInfo | L2ChainInfo } & {
   readonly [chainId in SupportedL2ChainId]: L2ChainInfo
 } & { readonly [chainId in SupportedL1ChainId]: L1ChainInfo }
-
-const CHAIN_INFO: ChainInfoMap = {
+// wallet chains 配置
+const CHAIN_INFO: ChainInfoMap | any = {
   [ChainId.MAINNET]: {
     networkType: NetworkType.L1,
     docs: 'https://docs.uniswap.org/',
@@ -224,6 +224,16 @@ const CHAIN_INFO: ChainInfoMap = {
     nativeCurrency: { name: 'Ether', symbol: 'ETH', decimals: 18 },
     color: darkTheme.chain_84531,
   },
+  [31337 as any]: {
+    networkType: NetworkType.L1,
+    docs: 'https://docs.uniswap.org/',
+    explorer: 'https://goerli.etherscan.io/',
+    infoLink: 'https://info.uniswap.org/#/',
+    label: 'PLP',
+    nativeCurrency: { name: 'PLP', symbol: 'PLP', decimals: 18 },
+    color: darkTheme.chain_5,
+    defaultListUrl: PLP_LIST
+  }
 } as const
 
 export function getChainInfo(

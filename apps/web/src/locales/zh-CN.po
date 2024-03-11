@@ -13,8 +13,10 @@ msgstr ""
 "X-Crowdin-File: /[1999321.Uniswap-web] main/apps/web/src/locales/en-US.po\n"
 "X-Crowdin-File-ID: 14\n"
 "Project-Id-Version: uniswap\n"
-"Language-Team: Chinese Simplified\n"
+"Language-Team: zh\n"
 "PO-Revision-Date: 2024-02-28 13:51\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
 
 #: src/constants/tokenSafety.tsx
 msgid "{0, plural, =1 {This token isn't traded on leading U.S. centralized exchanges.} other {These tokens aren't traded on leading U.S. centralized exchanges.}}"
@@ -165,7 +167,8 @@ msgid "Deposited"
 msgstr "已保存"
 
 #: src/utils/swapErrorToUserReadableMessage.tsx
-msgid "{0} Try increasing your slippage tolerance.\n"
+msgid ""
+"{0} Try increasing your slippage tolerance.\n"
 "Note: fee-on-transfer and rebase tokens are incompatible with Uniswap V3."
 msgstr ""
 
@@ -789,7 +792,8 @@ msgid "Deploy failed"
 msgstr "部署失败"
 
 #: src/components/NavBar/UkBanner.tsx
-msgid "This web application is provided as a tool for users to interact with the Uniswap Protocol on\n"
+msgid ""
+"This web application is provided as a tool for users to interact with the Uniswap Protocol on\n"
 "their own initiative, with no endorsement or recommendation of cryptocurrency trading activities. In doing so,\n"
 "Uniswap is not recommending that users or potential users engage in cryptoasset trading activity, and users or\n"
 "potential users of the web application should not regard this webpage or its contents as involving any form of\n"
@@ -1577,4 +1581,3 @@ msgstr "已刻录"
 #: src/pages/Landing/sections/Stats.tsx
 msgid "Learn more"
 msgstr "了解更多"
-

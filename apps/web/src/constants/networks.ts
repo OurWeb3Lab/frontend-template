@@ -1,5 +1,5 @@
 import { ChainId } from '@uniswap/sdk-core'
-
+// changeWallet:rpcurl以此为准
 const INFURA_KEY = process.env.REACT_APP_INFURA_KEY
 if (typeof INFURA_KEY === 'undefined') {
   throw new Error(`REACT_APP_INFURA_KEY must be a defined environment variable`)
@@ -123,6 +123,9 @@ export const FALLBACK_URLS = {
     'https://1rpc.io/base',
     'https://base.meowrpc.com',
   ],
+  [31337]: [
+    'http://43.136.94.61:8545'
+  ]
 }
 
 /**

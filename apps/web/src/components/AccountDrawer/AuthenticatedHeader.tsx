@@ -207,6 +207,7 @@ export default function AuthenticatedHeader({
   const isUniTagsEnabled = useUniTagsEnabled()
   const { unitag } = useUnitagByAddress(account, isUniTagsEnabled && Boolean(account))
 
+
   return (
     <AuthenticatedHeaderWrapper>
       <HeaderWrapper>
@@ -277,13 +278,14 @@ export default function AuthenticatedHeader({
             </AutoRow>
           </FadeInColumn>
         ) : (
-          <Column gap="xs">
-            <LoadingBubble height="44px" width="170px" />
-            <LoadingBubble height="16px" width="100px" margin="4px 0 20px 0" />
-          </Column>
+          // <Column gap="xs">
+          //   <LoadingBubble height="44px" width="170px" />
+          //   <LoadingBubble height="16px" width="100px" margin="4px 0 20px 0" />
+          // </Column>
+          <Column gap="xs"></Column>
         )}
         <Row gap="8px" marginBottom={!fiatOnrampAvailable && fiatOnrampAvailabilityChecked ? '20px' : '0px'}>
-          {shouldShowBuyFiatButton && (
+          {(shouldShowBuyFiatButton && false) && (
             <ActionTile
               dataTestId="wallet-buy-crypto"
               Icon={<CreditCardIcon />}
@@ -296,7 +298,7 @@ export default function AuthenticatedHeader({
               errorTooltip={t`Moonpay is not available in some regions. Click to learn more.`}
             />
           )}
-          {!shouldDisableNFTRoutes && (
+          {(!shouldDisableNFTRoutes && false) && (
             <ActionTile
               dataTestId="nft-view-self-nfts"
               Icon={<ImagesIcon />}

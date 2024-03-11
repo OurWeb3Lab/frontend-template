@@ -1,3 +1,5 @@
+export const PLP_LIST = 'https://raw.githubusercontent.com/1999321/TokenListForPLP/main/tokenList.json'
+
 export const UNI_LIST = 'https://cloudflare-ipfs.com/ipns/tokens.uniswap.org'
 export const UNI_EXTENDED_LIST = 'https://cloudflare-ipfs.com/ipns/extendedtokens.uniswap.org'
 const UNI_UNSUPPORTED_LIST = 'https://cloudflare-ipfs.com/ipns/unsupportedtokens.uniswap.org'
@@ -32,6 +34,7 @@ export const UNSUPPORTED_LIST_URLS: string[] = [BA_LIST, UNI_UNSUPPORTED_LIST]
 // default lists to be 'active' aka searched across
 export const DEFAULT_ACTIVE_LIST_URLS: string[] = [UNI_LIST]
 export const DEFAULT_INACTIVE_LIST_URLS: string[] = [
+  PLP_LIST,
   UNI_EXTENDED_LIST,
   COMPOUND_LIST,
   AAVE_LIST,
